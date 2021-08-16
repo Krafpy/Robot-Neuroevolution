@@ -4,3 +4,5 @@ The neural network successfuly drove the real robot after a training on the simu
 
 The simulation was developped on [Unity](https://unity.com/).
 
+![Simulation screenshot](Images/simulation_screenshot.png)
+
