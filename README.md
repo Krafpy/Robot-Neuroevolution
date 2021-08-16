@@ -6,3 +6,5 @@ The simulation was developped on [Unity](https://unity.com/).
 
 ![Simulation screenshot](Images/simulation_screenshot.png)
 
+This project was realised with the help of [Xzexal](https://gamejolt.com/@Xzexal).
+
